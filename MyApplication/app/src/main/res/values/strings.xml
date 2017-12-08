@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Уравнения</string>
+    <string name="linear">Линейные</string>
+    <string name="quadratic">Квадратные</string>
+    <string name="welcome">Выберите тип уравнения:</string>
+    <string name="solve">Решить</string>
+    <string name="x">⋅ x +</string>
+    <string name="x2">⋅ x2 +</string>
+    <string name="equals">=</string>
+    <string name="equalsZero">= 0</string>
+    <string name="hint1">9</string>
+    <string name="hint2">-1</string>
+    <string name="hint3">17</string>
+    <string name="hint4">1</string>
+    <string name="hint5">10</string>
+    <string name="hint6">-24</string>
+    <string name="result">Результат:</string>
+    <string name="aaa">Результат будет здесь</string>
+    <string name="aaa1">x=....</string>
+    <string name="aaa2">x1=...., x2=....</string>
+    <string name="share">Поделиться</string>
+    <string name="toast">Нечего отправлять!</string>
+    <string name="author">Брехов Данила</string>
+</resources>
